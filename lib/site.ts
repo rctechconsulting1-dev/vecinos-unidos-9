@@ -8,6 +8,6 @@ export const hasLocale = (value: string): value is Locale =>
 // Paste the Facebook group / Page links here. Buttons stay hidden while empty.
 export const links = {
   facebookGroup: "",
-  facebookPage: "https://www.facebook.com/profile.php?id=61595353975638",
+  facebookPage: "https://www.facebook.com/VecinosDistrito9",
   myla311: "https://myla311.lacity.gov/",
 };
